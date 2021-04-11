@@ -41,3 +41,8 @@
 <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilvijayan7&show_icons=true&locale=en&layout=compact" alt="sunilvijayan7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilvijayan7&show_icons=true&locale=en" alt="sunilvijayan7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilvijayan7&" alt="sunilvijayan7" /></p>
