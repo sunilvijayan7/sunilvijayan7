@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil Vijayan </h1>
-<h3 align="center">Full Stack Developer, Technical Product Architect, Azure Expert</h3>
-<h4> with Software Engineering Base/h4>
+<h3 align="center">Full Stack Developer, Technical Product Architect, Azure Expert with Software Engineering Base</h3>
 <h4 align="center">Software Engineering, Product Design and Devleopment, Project Management</h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
