@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack Developer, Lead Software Engineer, Azure Cloud Expert with Software Engineering Base</h3>
 <h4 align="center">Software Engineering, Product Design and Devleopment, Project Management</h4>
 <p>
-<h4 align="center"> - NB:- This is my brand new repository in 2020 for showcasing all projects.All my new projects are listed here. Old one is outdated!!!
-  I will be adding all the old git and azure devops repositories over here gradually. - 
+-! NB:- This is my brand new repository in 2020 for showcasing all projects.All my new projects are listed here. Old one is outdated!!!
+  I will be adding all the old git and azure devops repositories over here gradually. !- 
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilvijayan7" alt="sunilvijayan7" /></a> </p>
