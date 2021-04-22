@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sunil Vijayan </h1>
 <h3 align="center">Full Stack Developer, Lead Software Engineer, Azure Cloud Expert with Software Engineering Base</h3>
 <h4 align="center">Software Engineering, Product Design and Devleopment, Project Management</h4>
-<h4 align="center" style="color:orange;">NB:- This is my brand new repository for showcasing projects.All my new projects are listed here. Old one is outdated!!!
+<p>
+<h4 align="center" style="color:orange;">![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) NB:- This is my brand new repository in 2021 for showcasing all projects.All my new projects are listed here. Old one is outdated!!!
+  I will be adding all the old git and azure devops repositories over here gradually.
+</p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilvijayan7" alt="sunilvijayan7" /></a> </p>
 
 - 💻 All of my projects are available at [http://www.sunilvijayan.com/](http://www.sunilvijayan.com/)
