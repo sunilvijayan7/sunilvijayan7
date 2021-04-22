@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer, Lead Software Engineer, Azure Cloud Expert with Software Engineering Base</h3>
 <h4 align="center">Software Engineering, Product Design and Devleopment, Project Management</h4>
 <p>
-<h4 align="center" style="color:orange;"> ```diff - NB:- This is my brand new repository in 2020 for showcasing all projects.All my new projects are listed here. Old one is outdated!!!
+<h4 align="center"> - NB:- This is my brand new repository in 2020 for showcasing all projects.All my new projects are listed here. Old one is outdated!!!
   I will be adding all the old git and azure devops repositories over here gradually. - 
 </p>
 
