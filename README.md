@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack Developer, Lead Software Engineer, Azure Cloud Expert with Software Engineering Base</h3>
 <h4 align="center">Software Engineering, Product Design and Devleopment, Project Management</h4>
 <p>
--! NB:- This is my brand new repository in 2020 for showcasing all projects.All my new projects are listed here. Old one is outdated!!!
-  I will be adding all the old git and azure devops repositories over here gradually. !- 
+👋👋👋 NB:- This is my brand new repository in 2020 for showcasing all projects.All my new projects are listed here. Old one is outdated!!!
+  I will be adding all the old git and azure devops repositories over here gradually.
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilvijayan7&show_icons=true&locale=en&layout=compact" alt="sunilvijayan7" /></p>
 
