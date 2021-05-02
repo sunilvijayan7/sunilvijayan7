@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil Vijayan </h1>
-<h3 align="center">Full Stack Developer, Lead Software Engineer, Azure Cloud Expert with Software Engineering Base</h3>
+<h3 align="center">Full Stack Developer, Lead Software Engineer, Technical Project Manager | Product Manager with Software Engineering Base</h3>
 <h4 align="center">Software Engineering, Product Design and Devleopment, Project Management</h4>
 <p>
 👋👋👋 NB:- This is my brand new repository in 2020 for showcasing all projects.All my new projects are listed here. Old one is outdated!!!
