@@ -18,11 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="background:white;"> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://user-images.githubusercontent.com/2660262/42069843-48b884dc-7b97-11e8-9eae-ff18255369fa.png" alt="azure" width="40" height="40"/> </a> 
-  
-  <a href="https://www.alibabacloud.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1108655976268398593/OG5aynkH_400x400.png" alt="azure" width="40" height="40"/> </a> 
-
-<a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank"> <img src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" alt="blazor" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://user-images.githubusercontent.com/2660262/42069843-48b884dc-7b97-11e8-9eae-ff18255369fa.png" alt="azure" width="40" height="40"/> </a> <a href="https://www.alibabacloud.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1108655976268398593/OG5aynkH_400x400.png" alt="azure" width="40" height="40"/> </a><a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank"> <img src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" alt="blazor" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
