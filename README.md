@@ -36,7 +36,6 @@
 <a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/figma.svg"/></a>
 <a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/firebase.svg"/></a>
 <a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/flutter.svg"/></a>
-<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/git.svg"/></a>
 <a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/github.svg"/></a>
 <a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/graphql.svg"/></a>
 <a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/heroku.svg"/></a>
