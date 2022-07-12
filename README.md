@@ -19,41 +19,41 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="background:white;"> 
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/azure.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/alibaba.png"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/gcp.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/aws.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/android.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/androidstudio.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/angularjs.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/apple.png"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/bootstrap.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/cosmosdb.png"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/csharp.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/css.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/dart.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/dotnetcore.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/figma.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/firebase.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/flutter.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/git.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/github.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/graphql.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/heroku.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/html5.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/java.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/javascript.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/mongodb.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/nodejs.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/photoshop.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/postgresql.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/postman.png"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/python.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/reactjs.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/redis.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/sass.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/sketch.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/sql.png"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/sqlite.svg"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/xd.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/azure.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/alibaba.png"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/gcp.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/aws.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/android.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/androidstudio.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/angularjs.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/apple.png"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/bootstrap.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/cosmosdb.png"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/csharp.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/css.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/dart.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/dotnetcore.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/figma.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/firebase.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/flutter.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/git.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/github.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/graphql.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/heroku.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/html5.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/java.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/javascript.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/mongodb.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/nodejs.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/photoshop.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/postgresql.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/postman.png"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/python.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/reactjs.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/redis.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/sass.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/sketch.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/sql.png"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/sqlite.svg"/></a>
+<a href="" target="_blank"><img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/Logos/xd.svg"/></a>
 </p>
