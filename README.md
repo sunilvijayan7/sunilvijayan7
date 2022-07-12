@@ -3,7 +3,7 @@
 <h3 align="center">Product & Project Architect | Software Architect | Cloud Architect (Azure,AWS,Alibaba,GCP,Heroku) | Mentor</h3>
 <h4 align="center">Cloud Architecture,Software Engineering, Product Design and Devleopment, Project Management</h4>
 <p>
-<a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/sunilvijayan"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Buy me a coffee</span></a>
+<a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/sunilvijayan"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Encourage me with a coffee</span></a>
 </p>
 <p>
 👋👋👋 NB:- This is my brand new repository in 2020 for showcasing all projects.All my new projects are listed here. Old one is outdated!!!
@@ -61,5 +61,5 @@
 </p>
 
 <p>
-<a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/sunilvijayan"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Buy me a coffee</span></a>
+<a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/sunilvijayan"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Encourage me with a coffee</span></a>
 </p>
