@@ -6,7 +6,7 @@
 <a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/sunilvijayan"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Encourage me with a coffee</span></a>
 </p>
 <p>
-<a class="bmc-button" target="_blank" href="http://sunilvijayan.com"><img src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/applogo.png"><span style="margin-left:5px">www.sunilvijayan.com</span></a>
+<a class="bmc-button" target="_blank" href="http://sunilvijayan.com"><img img width="50" height="50" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/applogo.png"><span style="margin-left:5px">www.sunilvijayan.com</span></a>
 </p>
 <p>
 👋👋👋 NB:- This is my brand new repository in 2020 for showcasing all projects.All my new projects are listed here. Old one is outdated!!!
