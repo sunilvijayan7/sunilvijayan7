@@ -4,9 +4,9 @@
 <h4 align="center">Cloud Architecture,Software Engineering, Product Design and Devleopment, Project Management</h4>
 <table>
   <tr>
-    <th> kjdkfjkdsjf</th>
-    <th> kjdkfjkdsjf</th>
-    <th> kjdkfjkdsjf</th>
+    <th>👋</th>
+    <th>👋</th>
+    <th>👋</th>
 <a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/sunilvijayan"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Encourage me with a coffee</span></a>
 
   </tr>
@@ -18,16 +18,7 @@
     </td>
     <td><a class="bmc-button" target="_blank" href="mailto:sunil.vijayan@outlook.com"><img width="18" height="20" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/applogo.png"><span style="margin-left:5px">Any queries feel free to reach to - sunil.vijayan@outlook.com </span></a>
     </td>
-    
-
-  </tr>
-  <tr>
-   <td>One</td>
-    <td>Two</td>
-    <td>Three</td>
-
-
-  </tr>
+    </tr>
 </table>
 
 
