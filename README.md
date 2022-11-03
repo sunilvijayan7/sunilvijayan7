@@ -4,23 +4,22 @@
 <h4 align="center">Cloud Architecture,Software Engineering, Product Design and Devleopment, Project Management</h4>
 <table>
   <tr>
-   Name
-  </tr>
-  <tr>
-    Name
-  </tr>
-  <tr>
-    Name
-  </tr>
-</table>
-<p>
+   <p>
 <a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/sunilvijayan"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Encourage me with a coffee</span></a>
 </p>
-<p>
-<a class="bmc-button" target="_blank" href="http://sunilvijayan.com"><img width="18" height="20" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/applogo.png"><span style="margin-left:5px">www.sunilvijayan.com</span></a>
+  </tr>
+  <tr>
+    <a class="bmc-button" target="_blank" href="http://sunilvijayan.com"><img width="18" height="20" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/applogo.png"><span style="margin-left:5px">www.sunilvijayan.com</span></a>
 </p>
+  </tr>
+  <tr>
+   <p>
 <a class="bmc-button" target="_blank" href="mailto:sunil.vijayan@outlook.com"><img width="18" height="20" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/applogo.png"><span style="margin-left:5px">Any queries feel free to reach to - sunil.vijayan@outlook.com </span></a>
 </p>
+  </tr>
+</table>
+
+
 <p>
 👋👋👋 NB:- This is my brand new repository in 2020 for showcasing all projects.All my new projects are listed here. Old one is outdated!!!
   I will be adding all the old git and azure devops repositories over here gradually.
