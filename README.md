@@ -4,7 +4,7 @@
 
 ### About Me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%dc8300FF&vCenter=true&lines=I+am+a+Product+Architect.;I+am+a+Developer.;I+am+a+Designer.;I+am+a+Cloud+Architect.;I+am+a+Mentor.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%ddff5700&vCenter=true&lines=I+am+a+Product+Architect.;I+am+a+Developer.;I+am+a+Designer.;I+am+a+Cloud+Architect.;I+am+a+Mentor.)](https://git.io/typing-svg)
 
 <h4 align="center">Cloud Architecture,Software Engineering, Product Design and Devleopment, Project Management</h4>
 <table>
