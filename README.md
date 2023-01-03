@@ -30,11 +30,6 @@
   I will be adding all the old git and azure devops repositories over here gradually.
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilvijayan7&theme=juicyfresh" alt="sunilvijayan7" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilvijayan7&show_icons=true&locale=en&layout=compact" alt="sunilvijayan7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilvijayan7&show_icons=true&locale=en" alt="sunilvijayan7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilvijayan7&" alt="sunilvijayan7" /></p>
 
 - 💻 All of my projects are available at [http://www.sunilvijayan.com/](http://www.sunilvijayan.com/)
 
