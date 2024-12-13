@@ -1,5 +1,5 @@
 <h1 align="center" font="Montserrat">Hi 👋, I'm Sunil Vijayan </h1>
-<h2 align="center">Chief Technology Officer, Doctors Group Ltd</h2>
+<h2 align="center">Chief Technology Officer, DailyUse.ai </h2>
 <h3 align="center">Product & Project Architect | Software Architect | Cloud Architect (Azure,AWS,Alibaba,GCP,Heroku) | Mentor</h3>
 
 ### About Me:
