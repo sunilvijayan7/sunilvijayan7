@@ -17,7 +17,7 @@
     <td>
       <a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/sunilvijayan"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Encourage me with a coffee</span></a>
     </td>
-    <td><a class="bmc-button" target="_blank" href="http://sunilvijayan.com"><img width="18" height="20" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/applogo.png"><span style="margin-left:5px">www.sunilvijayan.com</span></a>
+    <td><a class="bmc-button" target="_blank" href="https://sunilvijayan.com"><img width="18" height="20" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/applogo.png"><span style="margin-left:5px">www.sunilvijayan.com</span></a>
     </td>
     <td><a class="bmc-button" target="_blank" href="mailto:sunil.vijayan@outlook.com"><img width="18" height="20" src="https://raw.githubusercontent.com/sunilvijayan7/sunilvijayan7/main/applogo.png"><span style="margin-left:5px">Any queries feel free to reach to - sunil.vijayan@outlook.com </span></a>
     </td>
@@ -31,9 +31,9 @@
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilvijayan7&theme=juicyfresh" alt="sunilvijayan7" /></a> </p>
 
-- 💻 All of my projects are available at [http://www.sunilvijayan.com/](http://www.sunilvijayan.com/)
+- 💻 All of my projects are available at [https://www.sunilvijayan.com/](https://www.sunilvijayan.com/)
 
-- 📫 How to reach me **hi@sunilvijayan.com/**
+- 📫 How to reach me **sunil.vijayan@outlook.com/**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="background:white;"> 
