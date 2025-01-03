@@ -33,7 +33,7 @@
 
 - 💻 All of my projects are available at [https://www.sunilvijayan.com/](https://www.sunilvijayan.com/)
 
-- 📫 How to reach me **sunil.vijayan@outlook.com/**
+- 📫 How to reach me **sunil.vijayan@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="background:white;"> 
